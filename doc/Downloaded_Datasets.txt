@@ -1,0 +1,5 @@
+Data is sourced from the following data.americorps.gov page: https://data.americorps.gov/dataset/2023-CEV-Data-Current-Population-Survey-Civic-Enga/be5g-4c5r/about_data
+Files downloaded and referenced are:
+- 2023 CEV Analytical Data and Setup Files.zip
+- 2023 CEV Technical Documentation
+- Export page data for the '1_cpssep2023.csv'
